@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ SENTINEL AI — AI-Powered Security Firewall
 
 > **Your AI. Your Data. Your Security.**
@@ -301,3 +302,7 @@ Tests cover:
 - Webhook alerts for critical threats
 - Compliance reporting (GDPR, DPDPA)
 - Browser extension for protecting web-based AI tools
+=======
+# Sentinal-AI
+🛡️ Sentinel AI is an intelligent AI security firewall that detects prompt injection, jailbreak attacks, PII exposure, and credential leaks. It uses risk scoring, automatic data redaction, and AI-powered analysis to protect applications and ensure safer AI interactions.
+>>>>>>> fe27150439701bf5717c2aa2ccb6d347435a8312
